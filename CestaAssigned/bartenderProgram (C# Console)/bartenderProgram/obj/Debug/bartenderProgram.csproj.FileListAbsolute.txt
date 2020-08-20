@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\bin\Debug\bartenderProgram.exe.config
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\bin\Debug\bartenderProgram.exe
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\bin\Debug\bartenderProgram.pdb
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\obj\Debug\bartenderProgram.csprojAssemblyReference.cache
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\obj\Debug\bartenderProgram.exe
+C:\Users\User\source\repos\bartenderProgram\bartenderProgram\obj\Debug\bartenderProgram.pdb
